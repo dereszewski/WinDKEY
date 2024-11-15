@@ -4,7 +4,7 @@
 The Used Windows Activator
 Every Issue Is Fixed
 # How To Install
-1. Go To
+1. Go To https://github.com/dereszewski/WinDKEY/releases/tag/WinDKEY
 # Is This A Virus
 No Its Not A Virus
 # There Is No Windows Pro
